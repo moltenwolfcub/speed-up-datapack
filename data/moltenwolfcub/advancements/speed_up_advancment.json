@@ -1,16 +1,17 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:air"
+            "item": "minecraft:potion",
+            "nbt": "{CustomPotionColor: 16711680}"
         },
         "title": {
-            "text": "Title",
+            "text": "Speed-Up Advancments",
             "bold": true,
             "italic": true,
             "color": "gold"
         },
         "description":{
-            "text": "Description",
+            "text": "You get faster with every advancment",
             "italic": true,
             "color": "green"
         },
